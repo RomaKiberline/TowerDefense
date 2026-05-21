@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 6e62a281f39350f4e8e1df54e1858f9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 107402760790551060
+    second: "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434
+      (Ice Projectile)_0"
+  - first:
+      213: 7030062029713600995
+    second: "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434
+      (Ice Projectile)_1"
+  - first:
+      213: -3028751429563284000
+    second: "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434
+      (Ice Projectile)_2"
+  - first:
+      213: 2938962592635016762
+    second: "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434
+      (Ice Projectile)_3"
+  - first:
+      213: 7518532673224571649
+    second: "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434
+      (Ice Projectile)_4"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434
+        (Ice Projectile)_0"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 88
+        width: 901
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a21dced329d7100800000000000000
+      internalID: 107402760790551060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434
+        (Ice Projectile)_1"
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 569
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e17a0e4b2ccf8160800000000000000
+      internalID: 7030062029713600995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434
+        (Ice Projectile)_2"
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 545
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e58cef2f96b7f5d0800000000000000
+      internalID: -3028751429563284000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434
+        (Ice Projectile)_3"
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 510
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36db2e18ea49c820800000000000000
+      internalID: 2938962592635016762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434
+        (Ice Projectile)_4"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 385
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bf7b3a1a1375860800000000000000
+      internalID: 7518532673224571649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434 (Ice Projectile)_0": 107402760790551060
+      "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434 (Ice Projectile)_1": 7030062029713600995
+      "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434 (Ice Projectile)_2": -3028751429563284000
+      "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434 (Ice Projectile)_3": 2938962592635016762
+      "\u041A\u0440\u0438\u0436\u0430\u043D\u0438\u0439 \u0441\u043D\u0430\u0440\u044F\u0434 (Ice Projectile)_4": 7518532673224571649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
