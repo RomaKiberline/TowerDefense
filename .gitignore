@@ -8,5 +8,4 @@ MemoryCaptures/
 obj/
 *.csproj
 *.sln
-TowerDef/
 .vs/
